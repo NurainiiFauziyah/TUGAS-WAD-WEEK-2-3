@@ -1,0 +1,11 @@
+body{
+    background-color:bisque; 
+    background-image: url(https://www.biznetgio.com/assets/main/images/news/Banner-Artikel_Juni_2023--Mengenal-HTML-Bahasa-Markup-Populer-untuk-Membuat-Halaman-Web.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+
+}
+h1{
+    font-family: Arial;
+    color: darkblue;
+}
